@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>707267756751-hsunveqevlccgvof2a554un3f91q7jg7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.707267756751-hsunveqevlccgvof2a554un3f91q7jg7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMt2Q4CBKRefPMyhguSbfmAyApTnt2QUA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>707267756751</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>zhandos.Aldo-Coppola-Test</string>
+	<key>PROJECT_ID</key>
+	<string>aldo-coppola-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aldo-coppola-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:707267756751:ios:5a1bc0a3c98a9636</string>
+	<key>DATABASE_URL</key>
+	<string>https://aldo-coppola-test.firebaseio.com</string>
+</dict>
+</plist>

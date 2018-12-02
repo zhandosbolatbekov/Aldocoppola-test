@@ -1,0 +1,89 @@
+PODS:
+  - Alamofire (4.7.0)
+  - AlamofireImage (3.3.0):
+    - Alamofire (~> 4.5)
+  - Cache (4.1.2)
+  - Firebase/Core (4.10.0):
+    - FirebaseAnalytics (= 4.1.0)
+    - FirebaseCore (= 4.0.16)
+  - Firebase/Database (4.10.0):
+    - Firebase/Core
+    - FirebaseDatabase (= 4.1.5)
+  - FirebaseAnalytics (4.1.0):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (4.0.16):
+    - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
+  - FirebaseDatabase (4.1.5):
+    - FirebaseAnalytics (~> 4.1)
+    - FirebaseCore (~> 4.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (2.0.9):
+    - FirebaseCore (~> 4.0)
+  - GoogleToolboxForMac/Defines (2.1.3)
+  - "GoogleToolboxForMac/NSData+zlib (2.1.3)":
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - KDCalendar (1.3.0)
+  - leveldb-library (1.20)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - NVActivityIndicatorView (4.1.1):
+    - NVActivityIndicatorView/Presenter (= 4.1.1)
+  - NVActivityIndicatorView/Presenter (4.1.1)
+  - ObjectMapper (3.1.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - Cache
+  - Firebase/Core
+  - Firebase/Database
+  - KDCalendar (~> 1.3.0)
+  - NVActivityIndicatorView
+  - ObjectMapper
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - Cache
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseDatabase
+    - FirebaseInstanceID
+    - GoogleToolboxForMac
+    - KDCalendar
+    - leveldb-library
+    - nanopb
+    - NVActivityIndicatorView
+    - ObjectMapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  AlamofireImage: 2e784dc5d00f04903a52c1d169181469c805c3df
+  Cache: bd0233fc688b5e83a27bcd87807db7e6f23adcc5
+  Firebase: c98c8b1fbcbdccd82539a36c2b17a9b1bb0ee798
+  FirebaseAnalytics: 3dfae28d4a5e06f86c4fae830efc2ad3fadb19bc
+  FirebaseCore: eb9e1a56733ff1094ecf3e28af9069c344b25239
+  FirebaseDatabase: 5f0bc6134c5c237cf55f9e1249d406770a75eafd
+  FirebaseInstanceID: d2058a35e9bebda1b6dd42486b84917bde552a9d
+  GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
+  KDCalendar: a97685cadeeb5a57bd35585f0294b86a2b78d851
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  NVActivityIndicatorView: 60109b9bf46efc2e71ab81453196ccdfdfeea870
+  ObjectMapper: 20505058f54e5c3ca69e1d6de9897d152a5369a6
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: acad87a422acb60b9e27bccca4d285be16d89fdb
+
+COCOAPODS: 1.5.0

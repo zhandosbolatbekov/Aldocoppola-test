@@ -1,0 +1,6 @@
+framework module Pods_Aldo_Coppola_Test {
+  umbrella header "Pods-Aldo-Coppola-Test-umbrella.h"
+
+  export *
+  module * { export * }
+}
